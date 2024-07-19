@@ -31,6 +31,7 @@ Git Branch는 Git에서 코드를 분기하여 관리하는 개념이다. Git에
 git push
 commit한 내용 (head의 변경내용)을 remote repo(원격 저장소)에 올린다.
 예)git push <branch name>
+git push origin main의 의미는 내가 현재 어떤 브랜치에 있던 이것과 상관없이 내 로컬 저장소의 main 브랜치를 원격지 중 origin으로 업로드해라. 이다.
 
 git remote add
 현재의 로컬 저장소를 깃허브에 있는 특정 레퍼지토리에 연결하겠다는 명령어 입니다.
