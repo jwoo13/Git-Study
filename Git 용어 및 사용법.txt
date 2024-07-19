@@ -43,7 +43,7 @@ https://blog.naver.com/hisukdory/220766885707
 git clone
 remoter repository(저장소)의 내용을 통째로 다운로드
 
-처음 깃허브에 올린다면 아래순서
+처음 깃허브에 올린다면 아래순서 예시
 git init
 git add README.md
 git commit -m "first commit"
